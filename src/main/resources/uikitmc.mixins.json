@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.flomik.uikitmc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "uikitmc.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

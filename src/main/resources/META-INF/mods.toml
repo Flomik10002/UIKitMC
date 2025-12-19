@@ -10,6 +10,7 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/_curseslug_"
 logoFile=""
 credits="Thanks to forge fml mcp Mojang"
 authors="${mod_authors}"
+mixinConfigs = "uikitmc.mixins.json"
 
 description='''
 ${mod_description}
